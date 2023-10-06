@@ -1,0 +1,4 @@
+Warna:
+- merah
+- biru
+- putih
