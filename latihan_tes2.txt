@@ -2,3 +2,5 @@ Warna:
 - merah
 - biru
 - putih
+- hijau
+- kuning
