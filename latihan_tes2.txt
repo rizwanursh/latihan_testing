@@ -4,3 +4,4 @@ Warna:
 - putih
 - hijau
 - kuning
+- ungu
